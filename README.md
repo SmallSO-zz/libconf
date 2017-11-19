@@ -1,6 +1,8 @@
 # Conf Project
 
-A simple profile interpreter and editor library written in EPL
+A simple profile interpreter and editor library written in EPL.
+
+> **Warning：Most of the source code for this project was not optimized. Due to the busy schedule, no time was spent in the near future, and some time was planned for reconstruction. The project's current source code did not meet the standards.**
 
 ---
 
